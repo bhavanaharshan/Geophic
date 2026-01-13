@@ -16,7 +16,7 @@ Powered by a **Large Language Model (LLM)** connected to a **Model Context Proto
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Frontend**
 * **Framework:** React 
@@ -35,14 +35,14 @@ Powered by a **Large Language Model (LLM)** connected to a **Model Context Proto
 
 ---
 
-## 👥 Meet the Team
+## Meet the Team
 
 | Name 
 | :--- 
-| **Aleena Sebastian** |
-| **Bhavana P H** |
-| **Rishika V Prabhu** |
-| **Samridhi Singh** |
+| **Aleena Sebastian** 
+| **Bhavana P H** 
+| **Rishika V Prabhu**
+| **Samridhi Singh** 
 
 ---
 
