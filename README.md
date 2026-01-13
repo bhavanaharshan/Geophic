@@ -6,7 +6,7 @@ Powered by a **Large Language Model (LLM)** connected to a **Model Context Proto
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Interactive 3D Visualization:** Explore world events on a rotating 3D globe with clickable hotspots.
 * **AI-Powered Summaries:** Instantly generate concise, accurate summaries of local events using LLMs and LangChain.
@@ -37,8 +37,8 @@ Powered by a **Large Language Model (LLM)** connected to a **Model Context Proto
 
 ## 👥 Meet the Team
 
-| Name | Role |
-| :--- | :--- |
+| Name 
+| :--- 
 | **Aleena Sebastian** |
 | **Bhavana P H** |
 | **Rishika V Prabhu** |
@@ -46,5 +46,4 @@ Powered by a **Large Language Model (LLM)** connected to a **Model Context Proto
 
 ---
 
-## 📄 License
-[cite_start]This project is developed as part of the Software Engineering B.Tech curriculum at **Amrita Vishwa Vidyapeetham**[cite: 19].
+This project is developed as part of the Software Engineering B.Tech curriculum at **Amrita Vishwa Vidyapeetham**
